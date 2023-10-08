@@ -1,0 +1,5 @@
+host: http://localhost:32400
+token:
+section:
+collection: Movies with Extras
+no_delete: False
